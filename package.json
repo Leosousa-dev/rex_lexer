@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx --no-cache src/index.ts",
-    "build": "tsx build src/index.ts"
+    "build": "tsc"
   },
   "author": "leonardo <leonardocasa790@gmail.com>",
   "license": "MIT",
