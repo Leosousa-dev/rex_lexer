@@ -1,0 +1,18 @@
+{
+  "name": "rex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx --no-cache src/index.ts",
+    "build": "tsx build src/index.ts"
+  },
+  "author": "leonardo <leonardocasa790@gmail.com>",
+  "license": "MIT",
+  
+  "devDependencies": {
+    "@types/node": "20.8.10",
+    "tsx": "3.14.0",
+    "typescript": "5.2.2"
+   }
+  }
