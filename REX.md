@@ -1,4 +1,0 @@
-# Rex
-
-## Tokens Definition
-
